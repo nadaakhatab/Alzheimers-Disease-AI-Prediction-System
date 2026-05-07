@@ -474,22 +474,6 @@ Possible future upgrades:
 
 ---
 
-# 👩‍💻 About The Developer
-
-Built with passion by Nada ❤️
-
-A student who loves:
-
-* Artificial Intelligence
-* healthcare technology
-* creativity
-* problem solving
-* building meaningful systems
-
-This project combines AI, medicine, data science, and software engineering into one complete intelligent platform.
-
----
-
 # 🤝 Final Words
 
 This project was not only about building a model.
