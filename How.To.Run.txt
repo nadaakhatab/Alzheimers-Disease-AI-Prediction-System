@@ -1,0 +1,33 @@
+
+How to run?
+ازاي نجربه؟
+
+in 3 simple steps.
+
+step 1: (ONLY DONE ONCE, Goal: to prepare the project) 
+# install node modules:
+open a terminal >> write:
+cd front
+npm install
+
+step 2:
+# make two terminals and write the following:
+
+terminal 1: 
+python app.py
+
+terminal 2:
+cd front
+npm run dev
+
+step 3:
+# Go to the tests folder and try the model with the given values.
+
+
+some information about the project's folders/files:
+front: frontend folder
+app.py: backend code
+AIBL.csv: dataset file
+test: a folder that contains multiple values to test
+
+
