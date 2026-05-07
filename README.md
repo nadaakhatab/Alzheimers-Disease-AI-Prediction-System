@@ -3,7 +3,7 @@
 ### AI-Powered Early Cognitive Risk Assessment Platform
 ---
 
-## 🌟 Project Overview
+## Project Overview
 
 This project is an AI-based system designed to help predict cognitive conditions related to Alzheimer’s Disease using clinical, demographic, genetic, imaging, and medical-history features.
 
@@ -43,7 +43,7 @@ This creates a more complete understanding of patient risk.
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
                     ┌─────────────────────┐
@@ -133,7 +133,7 @@ The project follows a full ML pipeline from preprocessing to explainability.
 
 ---
 
-## 1️⃣ Data Cleaning
+## 1) Data Cleaning
 
 The system first cleans and prepares the dataset by:
 
@@ -150,7 +150,7 @@ df = df[(df['Age'] >= 50) & (df['Age'] <= 100)]
 
 ---
 
-## 2️⃣ Feature Engineering
+## 2️) Feature Engineering
 
 Several custom transformations were applied.
 
@@ -185,7 +185,7 @@ This creates a more medically meaningful feature instead of using raw genetic nu
 
 ---
 
-## 3️⃣ Feature Groups
+## 3️) Feature Groups
 
 The project analyzes different categories separately before building the final model.
 
@@ -276,7 +276,7 @@ The project includes several evaluation methods:
 
 ---
 
-# 🔍 Explainable AI (SHAP)
+# Explainable AI (SHAP)
 
 A very important part of this project is explainability.
 
@@ -290,7 +290,7 @@ This helps make the AI system more understandable and trustworthy.
 
 ---
 
-# ⚡ Backend API
+# Backend API
 
 The backend is built using Flask.
 
@@ -321,7 +321,7 @@ The backend:
 
 ---
 
-# 🎨 Frontend
+# Frontend
 
 The frontend was built using:
 
@@ -458,37 +458,5 @@ It is **NOT** a replacement for professional medical diagnosis.
 Always consult medical professionals for real clinical decisions.
 
 ---
-
-# 🌍 Future Improvements
-
-Possible future upgrades:
-
-* Deep Learning integration
-* MRI image processing
-* Better UI/UX
-* Cloud deployment
-* Real-time dashboards
-* Doctor portal
-* Patient history tracking
-* More explainable AI visualizations
-
----
-
-# 🤝 Final Words
-
-This project was not only about building a model.
-
-It was about learning:
-
-* how real ML pipelines work
-* how healthcare AI systems are designed
-* how data becomes decisions
-* and how technology can support people in difficult situations
-
-If you are reading this as a student:
-
-keep building.
-keep experimenting.
-your projects do not need to be perfect to matter.
 
 Real growth comes from trying hard things anyway. 🚀
