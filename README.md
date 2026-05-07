@@ -369,8 +369,6 @@ The interface allows users to:
 
 ---
 
-# ▶️ How to Run the Project
-
 # 🚀 How To Run
 
 ## Step 1 — Install Frontend Packages
@@ -459,4 +457,4 @@ Always consult medical professionals for real clinical decisions.
 
 ---
 
-Real growth comes from trying hard things anyway. 🚀
+Real growth comes from trying hard things anyway!
